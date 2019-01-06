@@ -1,6 +1,6 @@
 # About
 
-This is a data science cheatsheet compiled from classes, MOOCs, the Metis bootcamp, and the Scool of Hard Knocks (of course!). It is written from the perspective for a complete beginner with little to no prior programming experience. 
+This is a data science cheatsheet compiled from classes, MOOCs, the Metis bootcamp, and the School of Hard Knocks (of course!). It is written from the perspective for a complete beginner with little to no prior programming experience. 
 
 Note: It is a work in progress but feel free to star, fork, and contribute to the effort. 
 
