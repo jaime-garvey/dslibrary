@@ -18,7 +18,7 @@ Note: It is a work in progress but feel free to star, fork, and contribute to th
 
 **Python Packages**
 1. Pandas
-2. NumYy
+2. NumPy
 3. Matplotlib
 
 
